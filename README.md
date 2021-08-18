@@ -1,2 +1,2 @@
 # ExoplanetDetection
-Made in conjunction Inspirit AI(https://www.inspiritai.com/) during Summer '21
+Made in conjunction with Inspirit AI(https://www.inspiritai.com/) during Summer '21
